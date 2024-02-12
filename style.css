@@ -46,6 +46,7 @@ div {
     padding: 3px;
     border: ridge;
     border-color: greenyellow;
+    width: 80%;
 }
 
 .display-none {
