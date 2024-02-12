@@ -43,7 +43,7 @@ div {
 
 .menu-item {
     font-size: x-large;
-    padding: 10px;
+    padding: 3px;
 }
 
 .display-none {
@@ -52,9 +52,9 @@ div {
 }
 
 .picture {
-    width: 400px;
+    width: 300px;
     position: absolute;
-    top:  60%;
+    top:  50%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
