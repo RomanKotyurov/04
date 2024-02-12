@@ -44,6 +44,8 @@ div {
 .menu-item {
     font-size: x-large;
     padding: 3px;
+    border: ridge;
+    border-color: greenyellow;
 }
 
 .display-none {
@@ -52,9 +54,9 @@ div {
 }
 
 .picture {
-    width: 300px;
+    width: 330px;
     position: absolute;
-    top:  50%;
+    top:  65%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
